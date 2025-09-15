@@ -1,4 +1,4 @@
-# PROFILE_GIT
+
 
 <h2 align="left">Hi 👋! My name is MARIA LICÁ and I'm a SOFTWARE DEVELOPER,  from BRAZIL</h2>
 
