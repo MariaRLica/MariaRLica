@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # a cada 12h
+    - cron: "0 */12 * * *" # roda a cada 12h
   workflow_dispatch:
   push:
     branches:
@@ -28,6 +28,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Generate Snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
