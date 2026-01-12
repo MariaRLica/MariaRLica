@@ -13,7 +13,7 @@ I enjoy working across the stack — from designing intuitive user interfaces to
 ## 🚀 Featured Projects  
 
 - [📊 Monitoring Dashboard](https://github.com/usuario/projeto) → **React + Node.js + MySQL**  
-- [📱 Finance Management App](https://github.com/usuario/projeto) → **Flutter + Dart**  
+- [📱 Finance Management App](https://github.com/MariaRLica/Mobile-Flutter) → **Flutter + Dart**  
 - [⚡ E-commerce REST API](https://github.com/usuario/projeto) → **Java + Spring Boot**  
 
 > 💡 Check more projects on my [GitHub repositories](https://github.com/mariaRLica?tab=repositories)
